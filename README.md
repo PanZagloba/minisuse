@@ -1,0 +1,2 @@
+# minisuse
+The MiniSUSE project.
